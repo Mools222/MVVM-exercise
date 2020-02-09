@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805218203070",
+    "firebase_url": "https://mvvmexercise.firebaseio.com",
+    "project_id": "mvvmexercise",
+    "storage_bucket": "mvvmexercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805218203070:android:3d88954f6ba999971775ef",
+        "android_client_info": {
+          "package_name": "com.mools.mvvm_exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805218203070-ldc538lc0g6e82vkm2gtpo8brcf5u0n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mools.mvvm_exercise",
+            "certificate_hash": "d0f09a647c8d6fa58a4d93dc32cefa37e708fd88"
+          }
+        },
+        {
+          "client_id": "805218203070-pqi002gdj0np0407md7i2jt8vp51uek7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpY6v8rVy43dNs7aduBWpx1r8VU6fG_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805218203070-pqi002gdj0np0407md7i2jt8vp51uek7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
